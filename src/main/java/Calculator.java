@@ -1,6 +1,7 @@
 /**
  * Created by anton on 24.01.18.
  */
+
 public class Calculator {
     public static int add(int x,int y) {
         return x+y;
